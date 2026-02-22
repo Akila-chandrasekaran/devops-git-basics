@@ -1,1 +1,2 @@
 creating Repo in both local and in GITHUB
+pushing the code
